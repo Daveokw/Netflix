@@ -227,7 +227,7 @@
     }
     .main-search{
         width: 100%;
-        /* display: block; */
+        display: block;
         justify-content: center;
         padding-right: 80%;
         margin: 0%;
@@ -236,7 +236,7 @@
         width: 200px;
         border: 0.01px solid white;
         height: 50px;
-        /* display: flex */
+        display: block
         background-color: #0F100F;
         border-radius: 5px;
         padding-left: 20px;
@@ -245,10 +245,10 @@
         background-color: #e50914;
         color: #FFF;
         font-weight: 400;
-        /* display:f; */
+        display: block;
         border: 2px solid #e50914;
-        width:220px;
-        /* height: 50px; */
+        width: 100px;
+        height: 50px;
         border-radius: 5px;
         /* margin-left: 10px; */
         font-size: 10px;
