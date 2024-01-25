@@ -197,7 +197,7 @@
         height: 80vh;
         width: 100%;
         margin-bottom: 5px;
-        background-image: linear-gradient(120deg,rgba(0,4,66,0) 0%,black 100%), url("../Bootstrap/imgs/NG-en-20231218-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+        background-image: linear-gradient(120deg,rgba(0,4,66,0) 0%,black 100%), url("imgs/NG-en-20231218-popsignuptwoweeks-perspective_alpha_website_large.jpg");
         background-position: center;
         background-size: cover;
         display: flex;
@@ -363,7 +363,7 @@
         height: 80vh;
         width: 100%;
         margin-bottom: 5px;
-        background-image: linear-gradient(120deg,rgba(0,4,66,0) 0%,black 100%), url("../Bootstrap/imgs/NG-en-20231218-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+        background-image: linear-gradient(120deg,rgba(0,4,66,0) 0%,black 100%), url("imgs/NG-en-20231218-popsignuptwoweeks-perspective_alpha_website_large.jpg");
         background-position: center;
         background-size: cover;
         display: flex;
